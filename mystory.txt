@@ -11,4 +11,8 @@ I was born to cross vast oceans as a pirate.
 
 (P1) My favorite food is ramen. 
 
-(P2) My seccond favorite food is pizza.
+(P2) I was born into a gaggle of geese. 
+
+(P) My favorite food is Sushi.
+
+(P1) My second favorite food is pizza.
