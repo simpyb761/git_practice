@@ -4,3 +4,5 @@ By Benjamin Simpson
 I was born to cross vast oceans as a pirate.
 
 (P1) I was born to pirates to sail the ocean.
+
+(P2) I was born to merchants to create a fortune. 
