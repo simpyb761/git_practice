@@ -10,3 +10,5 @@ I was born to cross vast oceans as a pirate.
 (P3) Today I am learning
 
 (P1) My favorite food is ramen. 
+
+(P2) My seccond favorite food is pizza.
